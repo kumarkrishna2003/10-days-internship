@@ -22,7 +22,7 @@ fileptr.close()
 1. [shinto](https://github.com/2003SHINTO)
 >linking image
 -create a file
-![alt electron]
+![alt electron](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Untitled.jpeg)
 
 #DAY-2
 >TINKER CADED
