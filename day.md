@@ -66,4 +66,5 @@ void loop()
 # arduino 
 - arduino has digital and analog write and read 
 - adrduino 2 led blinking
+![alt astable](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2012-38-18.png)
 ![alt astable](
