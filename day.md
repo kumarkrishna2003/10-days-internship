@@ -67,4 +67,26 @@ void loop()
 - arduino has digital and analog write and read 
 - adrduino 2 led blinking
 ![alt astable](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2012-38-18.png)
-![alt astable](
+![alt astable](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2012-38-20.png)
+# code for astable mode operation
+```// C++ code
+//
+void setup()
+{
+  pinMode(12, OUTPUT); 
+  pinMode(7, OUTPUT);
+      
+}
+
+void loop()
+{
+  digitalWrite(12, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(12, LOW);// Wait for 1000 millisecond(s)
+  digitalWrite(7, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(7, LOW);// Wait for 1000 millisecond(s)
+  
+}
+```
+
