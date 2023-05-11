@@ -69,7 +69,8 @@ void loop()
 ![alt astable](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2012-38-18.png)
 ![alt astable](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2012-38-20.png)
 # code for astable mode operation
-```// C++ code
+```
+// C++ code
 //
 void setup()
 {
