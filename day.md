@@ -62,3 +62,4 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
+[arduino interfacing1](https://www.tinkercad.com/things/bL3zKL1EtSU-arduino-interfacing1)
