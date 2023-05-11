@@ -41,4 +41,4 @@ _CREATED ACC
 ![alt circuit schematic](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2010-26-38.png)
 ![alt component list](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Screenshot%20from%202023-05-11%2010-26-41.png)
 ![alt arduino](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2011-29-08.png)
-![alt arduino](
+![alt arduino](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2011-28-48.png)
