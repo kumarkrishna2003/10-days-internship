@@ -65,3 +65,5 @@ void loop()
 [arduino interfacing1](https://www.tinkercad.com/things/bL3zKL1EtSU-arduino-interfacing1)
 # arduino 
 - arduino has digital and analog write and read 
+- adrduino 2 led blinking
+![alt astable](
