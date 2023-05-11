@@ -36,9 +36,29 @@ _CREATED ACC
 # day3
 - tinkering cade 
 - using logic gate and gate
+1. AND gate verfication 
 ![alt simulatio](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2010-17-30.png)
 > circuit schematic
 ![alt circuit schematic](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2010-26-38.png)
 ![alt component list](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Screenshot%20from%202023-05-11%2010-26-41.png)
+2.arduino interfacing
+- led blinging
 ![alt arduino](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2011-29-08.png)
 ![alt arduino](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2011-28-48.png)
+#code for blingling led
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(8, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(8, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(8, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+```
