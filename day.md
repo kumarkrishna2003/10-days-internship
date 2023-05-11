@@ -36,3 +36,4 @@ _CREATED ACC
 # day3
 - tinkering cade 
 - using logic gate and gate
+![alt simulatio](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2010-17-30.png)
