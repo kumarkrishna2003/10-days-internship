@@ -33,3 +33,6 @@ _CREATED ACC
 >led glow using switch
 ![alt sorry](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Screenshot%20from%202023-05-09%2012-16-09.png)
 [tinker cade](https://www.tinkercad.com/things/08pXx94FczB-led-glowing-using-varable-resistor)
+# day3
+- tinkering cade 
+- using logic gate and gate
