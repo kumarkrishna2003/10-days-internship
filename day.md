@@ -91,6 +91,6 @@ void loop()
 }
 ```
 >DANCING LIGHT
-![ALT IMG](
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2015-43-15.png)
 - 7 segament display using arduino
 [thinker this](https://www.tinkercad.com/things/f5GIdlII1CW-7-segament-display-using-arduino-board)
