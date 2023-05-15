@@ -248,4 +248,11 @@ void loop()
 }
 ```
 [thinker this](https://www.tinkercad.com/things/f5GIdlII1CW-7-segament-display-using-arduino-board)
+# day-4
+> machine learning
+> base of code
+> using blockly
+> made print sum of 2 number using blockly
+> made cal
+>
 
