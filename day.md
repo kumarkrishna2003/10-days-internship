@@ -255,6 +255,10 @@ void loop()
 > base of code
 > using blockly
 > made print sum of 2 number using blockly
-> made cal
->
+> made calcaluator using if function
+> machine learning
+> using sim 32 nucled development board
+> recorded by 2 audio in board
+> baby cry and ambulance
+> machine recovered voice as baby cry and ambulance
 
