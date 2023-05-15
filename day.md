@@ -92,6 +92,7 @@ void loop()
 ```
 >DANCING LIGHT
 ![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-11%2015-43-15.png)
+- CODE FOR DANCING LIGHT
 ```
 // C++ code
 //
