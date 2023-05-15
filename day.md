@@ -261,4 +261,5 @@ void loop()
 - recorded by 2 audio in board
 - baby cry and ambulance
 - machine recovered voice as baby cry and ambulance
+![alt img2](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-12%2012-08-29.png)
 
