@@ -152,6 +152,7 @@ void loop()
 - 7 segament display using arduino
 ![alt 7seg](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-15%2014-36-22.png)
 >code for 7 segament
+
 ```
 // C++ code
 //
@@ -246,6 +247,7 @@ void loop()
   
   delay(1000); // Wait for 1000 millisecond(s)
 }
+
 ```
 [thinker this](https://www.tinkercad.com/things/f5GIdlII1CW-7-segament-display-using-arduino-board)
 # day-4
