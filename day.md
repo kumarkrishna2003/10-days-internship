@@ -151,4 +151,101 @@ void loop()
 [THINKERTHIS](https://www.tinkercad.com/things/ft6hrPTffez-dancing-light)
 - 7 segament display using arduino
 ![alt 7seg](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-15%2014-36-22.png)
+>code for 7 segament
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12,OUTPUT);
+  pinMode(11,OUTPUT);
+  pinMode(10,OUTPUT);
+  pinMode(9,OUTPUT);
+  pinMode(8,OUTPUT);
+  pinMode(7,OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,HIGH);
+  delay(1000); // Wait for 1000 millisecond(s
+  digitalWrite(11,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(1000);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(8,HIGH);
+  digitalWrite(11,HIGH);
+  delay(1000);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  delay(1000);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(10,HIGH);
+  delay(1000);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(12,HIGH);
+  delay(1000);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(12,HIGH);
+  delay(1000);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(1000);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  delay(1000);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  delay(1000);
+  
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+```
 [thinker this](https://www.tinkercad.com/things/f5GIdlII1CW-7-segament-display-using-arduino-board)
+
