@@ -150,4 +150,5 @@ void loop()
 ```
 [THINKERTHIS](https://www.tinkercad.com/things/ft6hrPTffez-dancing-light)
 - 7 segament display using arduino
+![alt 7seg](
 [thinker this](https://www.tinkercad.com/things/f5GIdlII1CW-7-segament-display-using-arduino-board)
