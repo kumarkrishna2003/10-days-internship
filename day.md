@@ -262,4 +262,4 @@ void loop()
 - baby cry and ambulance
 - machine recovered voice as baby cry and ambulance
 ![alt img2](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-12%2012-08-29.png)
-
+![alt img3](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-12%2012-24-09.png)
