@@ -268,4 +268,5 @@ void loop()
 - parts of drone
 - different type of drone
 - arduino  analog input using potential meter
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-15%2014-37-57.png)
 ![alt img](
