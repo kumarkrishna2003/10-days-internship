@@ -337,7 +337,7 @@ void loop()
   digitalWrite(7,LOW);
   digitalWrite(9,HIGH);
   digitalWrite(8,HIGH);
-  delay(potValue);
+  delay(potValue);https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2011-01-06.png
   digitalWrite(8,LOW);
   digitalWrite(7,LOW);
   digitalWrite(12,LOW);
@@ -385,5 +385,6 @@ void loop()
   delay(potValue); // Wait for 1000 millisecond(s)
 }
 ```
+![alt a1](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2011-01-06.png)
 
 
