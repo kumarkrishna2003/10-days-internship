@@ -277,3 +277,13 @@ void loop()
 - created 3d block in tinker cade
 ![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Screenshot%20from%202023-05-18%2009-17-31.png)
 ![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2009-18-10.png)
+# day-7
+- lab visiting
+- electrical lab
+- electronic lab
+- robotic introduction
+- types of robot
+- working of robot
+- controling of robot
+# day -8
+
