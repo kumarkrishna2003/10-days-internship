@@ -275,4 +275,4 @@ void loop()
 - parts of 3d printer
 - working of printer
 - created 3d block in tinker cade
-![alt img](
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Screenshot%20from%202023-05-18%2009-17-31.png)
