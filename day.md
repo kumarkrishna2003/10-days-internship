@@ -263,10 +263,16 @@ void loop()
 - machine recovered voice as baby cry and ambulance
 ![alt img2](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-12%2012-08-29.png)
 ![alt img3](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-12%2012-24-09.png)
-#day-5 
+# day-5 
 - drone induction 
 - parts of drone
 - different type of drone
 - arduino  analog input using potential meter
 ![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-15%2014-37-57.png)
 ![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2009-12-04.png)
+# day-6
+- 3d printer
+- parts of 3d printer
+- working of printer
+- created 3d block in tinker cade
+![alt img](
