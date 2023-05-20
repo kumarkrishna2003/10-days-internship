@@ -421,4 +421,52 @@ void loop() {
 
 ```
 [thinker cade](https://www.tinkercad.com/things/evcdl8NoCoE-3-leds-blink-using-3-switchs)
-![alt img](
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-20%2012-14-58.png)
+```
+const int buttonPin0 = 2;     
+const int ledPin0 =  13;      
+const int buttonPin1 = 4;     
+const int ledPin1 =  12; 
+const int buttonPin2 = 7;     
+const int ledPin2 =  8;  
+
+int buttonState0 = 0;       
+int buttonState1 = 0;
+int buttonState2 = 0;  
+void setup() {
+  
+  pinMode(ledPin0, OUTPUT); 
+  pinMode(ledPin1, OUTPUT);
+  pinMode(ledPin2, OUTPUT);
+  
+  pinMode(buttonPin0, INPUT);
+  
+  pinMode(buttonPin1, INPUT);
+  pinMode(buttonPin2, INPUT);
+}
+
+void loop() {
+  
+  buttonState0 = digitalRead(buttonPin0);
+  buttonState1 = digitalRead(buttonPin1);
+  buttonState2 = digitalRead(buttonPin2);
+  
+  
+  if (buttonState0 == HIGH){
+    
+    digitalWrite(ledPin0, HIGH);
+  } else if (buttonState1 == HIGH){
+    
+    digitalWrite(ledPin1, HIGH);
+  } else if (buttonState2 == HIGH){
+    digitalWrite(ledPin2, HIGH);
+  }
+  else {
+    // turn LED off:
+    digitalWrite(ledPin0, LOW);
+    digitalWrite(ledPin1, LOW);
+    digitalWrite(ledPin2, LOW); 
+  }
+}
+
+```
