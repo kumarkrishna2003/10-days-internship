@@ -389,4 +389,36 @@ void loop()
 [thinker this](https://www.tinkercad.com/things/94q0g4u18ho-speed-control-using-pot)
 # day 9
 [tniker cade](https://www.tinkercad.com/things/9xfCKor8tIz-led-blink-using-switch)
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-20%2012-10-33.png)
+``` 
+
+const int buttonPin = 2;     // the number of the pushbutton pin
+const int ledPin =  13;      // the number of the LED pin
+
+// variables will change:
+int buttonState = 0;         // variable for reading the pushbutton status
+
+void setup() {
+  // initialize the LED pin as an output:
+  pinMode(ledPin, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin, INPUT);
+}
+
+void loop() {
+  // read the state of the pushbutton value:
+  buttonState = digitalRead(buttonPin);
+
+  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonState == HIGH) {
+    // turn LED on:
+    digitalWrite(ledPin, HIGH);
+  } else {
+    // turn LED off:
+    digitalWrite(ledPin, LOW);
+  }
+}
+
+```
+[thinker cade](https://www.tinkercad.com/things/evcdl8NoCoE-3-leds-blink-using-3-switchs)
 ![alt img](
