@@ -387,4 +387,6 @@ void loop()
 ```
 ![alt a1](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2011-01-06.png)
 [thinker this](https://www.tinkercad.com/things/94q0g4u18ho-speed-control-using-pot)
-
+# day 9
+[tniker cade](https://www.tinkercad.com/things/9xfCKor8tIz-led-blink-using-switch)
+![alt img](
