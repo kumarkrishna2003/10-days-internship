@@ -470,3 +470,7 @@ void loop() {
 }
 
 ```
+# day 10
+- smart street light
+[tinker cade](https://www.tinkercad.com/things/i4XjrxRckK3-smart letter box)
+![alt img](
